@@ -1,16 +1,38 @@
 /* styles.css - Let's make our web development journey fun and stylish! */
 
+.colorheader{
+color: brown;
+
+}
+
+span {font-weight:bold;}
+
+#biglink {font-size:20pt;}
+
+
+
+.Lists{ display:inline-block
+margin:0;
+padding:0;
+text-align: left;}
+
+
+
+
+
+
+
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f0f0f0;
+  background-color: #afc489;
   color: #333;
   text-align: center;
 }
 
 header {
-  background-color: #ffcc00;
+ ;
   color: #fff;
   padding: 20px 0;
 }
@@ -21,7 +43,7 @@ main {
 
 button {
   background-color: #ff007f;
-  color: #fff;
+  color: #f1efea;
   border: none;
   padding: 10px 20px;
   font-size: 16px;
@@ -34,10 +56,11 @@ button:hover {
 }
 
 footer {
+  
   position: fixed;
   bottom: 0;
   width: 100%;
   background-color: #333;
-  color: #fff;
+  color: #f5f3f3;
   padding: 10px 0;
 }
